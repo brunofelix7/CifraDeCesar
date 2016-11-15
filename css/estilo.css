@@ -1,0 +1,32 @@
+body{
+    background: url(../imagens/criptografia2.jpg) no-repeat top center;
+    background-size: cover;
+}
+
+div.cifra{
+    margin-left: 550px;
+}
+
+div.a h1{
+    font-size: 40px;
+    font-family: inherit;
+    font-style: italic;
+    color: white;
+    margin-left: 420px;
+    margin-top: 80px;
+}
+
+div.cifra{
+    border: 3px solid #E5E5E5;
+    border-top: 25px solid #E5E5E5;
+    background: url(../imagens/criptografia2.jpg) no-repeat top center;
+    background-size: cover;
+    padding: 70px;
+    margin-left: 420px;
+    max-width: 300px;
+    margin-top: 30px;
+}
+
+div.cifra textarea{
+    padding-left: 12px;
+}
